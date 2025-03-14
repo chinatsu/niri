@@ -16,6 +16,12 @@
 * [Gestures](./Configuration:-Gestures.md)
 * [Debug Options](./Configuration:-Debug-Options.md)
 </details>
+
+[Floating Windows](./Floating-Windows.md)<br />
+[Tabs](./Tabs.md)<br />
+[Layer‐Shell Components](./Layer%E2%80%90Shell-Components.md)<br />
+[Gestures](./Gestures.md)<br />
+
 <details open>
 <summary>Other software</summary>
 
@@ -25,11 +31,7 @@
 * [Application-Specific Issues](./Application-Issues.md)
 </details>
 
-[Floating Windows](./Floating-Windows.md)<br />
-[Tabs](./Tabs.md)<br />
-[Layer‐Shell Components](./Layer%E2%80%90Shell-Components.md)<br />
 [IPC, `niri msg`](./IPC.md)<br />
-[Gestures](./Gestures.md)<br />
 [Packaging niri](./Packaging-niri.md)<br />
 [FAQ](./FAQ.md)
 <details>
