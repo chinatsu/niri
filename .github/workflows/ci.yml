@@ -18,4 +18,4 @@ jobs:
         with:
           lfs: true
           show-progress: false
-      - uses: chinatsu/github-wiki-action@4e3ebb5c30f5917ea3343dfb7a1807deb8c798bf
+      - uses: chinatsu/github-wiki-action@4155f1afb1db58b483043962b248e3cbe411bfb5
