@@ -32,7 +32,7 @@ To fix this, run them with the `_JAVA_AWT_WM_NONREPARENTING=1` environment varia
 ### rofi-wayland
 
 There's a bug in rofi-wayland that prevents it from accepting keyboard input on niri with errors in the output.
-It's been fixed in rofi, but the fix had not been released yet: https://github.com/davatorium/rofi/discussions/2008
+It's been fixed in rofi, but [the fix had not been released yet](https://github.com/davatorium/rofi/discussions/2008).
 
 ### Fullscreen games
 
