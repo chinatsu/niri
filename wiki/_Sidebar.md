@@ -2,29 +2,33 @@
 <details open>
 <summary>Configuration</summary>
 
-* [Overview](./Configuration:-Overview.md)<br />
-* [Input](./Configuration:-Input.md)<br />
-* [Outputs](./Configuration:-Outputs.md)<br />
-* [Key Bindings](./Configuration:-Key-Bindings.md)<br />
-* [Switch Events](./Configuration:-Switch-Events.md)<br />
-* [Layout](./Configuration:-Layout.md)<br />
-* [Named Workspaces](./Configuration:-Named-Workspaces.md)<br />
-* [Miscellaneous](./Configuration:-Miscellaneous.md)<br />
-* [Window Rules](./Configuration:-Window-Rules.md)<br />
-* [Layer Rules](./Configuration:-Layer-Rules.md)<br />
-* [Animations](./Configuration:-Animations.md)<br />
-* [Gestures](./Configuration:-Gestures.md)<br />
-* [Debug Options](./Configuration:-Debug-Options.md)<br />
+* [Overview](./Configuration:-Overview.md)
+* [Input](./Configuration:-Input.md)
+* [Outputs](./Configuration:-Outputs.md)
+* [Key Bindings](./Configuration:-Key-Bindings.md)
+* [Switch Events](./Configuration:-Switch-Events.md)
+* [Layout](./Configuration:-Layout.md)
+* [Named Workspaces](./Configuration:-Named-Workspaces.md)
+* [Miscellaneous](./Configuration:-Miscellaneous.md)
+* [Window Rules](./Configuration:-Window-Rules.md)
+* [Layer Rules](./Configuration:-Layer-Rules.md)
+* [Animations](./Configuration:-Animations.md)
+* [Gestures](./Configuration:-Gestures.md)
+* [Debug Options](./Configuration:-Debug-Options.md)
+</details>
+<details open>
+<summary>Other software</summary>
+
+* [Important Software](./Important-Software.md)
+* [Example systemd Setup](./Example-systemd-Setup.md)
+* [Xwayland](./Xwayland.md)
+* [Application-Specific Issues](./Application-Issues.md)
 </details>
 
-[Important Software](./Important-Software.md)<br />
-[Example systemd Setup](./Example-systemd-Setup.md)<br />
-[Application-Specific Issues](./Application-Issues.md)<br />
 [Floating Windows](./Floating-Windows.md)<br />
 [Tabs](./Tabs.md)<br />
 [Layer‐Shell Components](./Layer%E2%80%90Shell-Components.md)<br />
 [IPC, `niri msg`](./IPC.md)<br />
-[Xwayland](./Xwayland.md)<br />
 [Gestures](./Gestures.md)<br />
 [Packaging niri](./Packaging-niri.md)<br />
 [FAQ](./FAQ.md)
