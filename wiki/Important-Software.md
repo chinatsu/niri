@@ -2,7 +2,7 @@ Since niri is not a complete desktop environment, you will very likely want to r
 
 ### Notification Daemon
 
-Many apps need one. For example, [mako](https://github.com/emersion/mako) works well. Use [a systemd setup](./Example-systemd-Setup.md) or `spawn-at-startup`.
+Many apps need one. For example, [mako](https://github.com/emersion/mako) works well. Use [a systemd setup](./Example-systemd-Setup.md) or [`spawn-at-startup`](./Configuration:-Miscellaneous#spawn-at-startup).
 
 ### Portals
 
