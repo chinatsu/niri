@@ -1,5 +1,3 @@
-## Usage
-
 [Getting Started](./Getting-Started.md)<br />
 <details open>
 <summary>Configuration</summary>
