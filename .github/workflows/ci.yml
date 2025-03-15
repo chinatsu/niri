@@ -18,4 +18,4 @@ jobs:
         with:
           lfs: true
           show-progress: false
-      - uses: chinatsu/github-wiki-action@441ce5bbfd050758f4225bd600202efe817c8e51
+      - uses: Andrew-Chen-Wang/github-wiki-action@b7e552d7cb0fa7f83e459012ffc6840fd87bcb83
