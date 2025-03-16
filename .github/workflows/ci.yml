@@ -236,7 +236,7 @@ jobs:
           show-progress: false
       - uses: lycheeverse/lychee-action@v2.0.2 # later versions break fragment checks. don't bump until this is fixed: https://github.com/lycheeverse/lychee/issues/1574
         with:
-          args: --offline --include-fragments 'wiki/*.md'
+          args: --no-progress --offline --include-fragments 'wiki/*.md'
 
   publish-wiki:
     if: github.event_name == 'push' && github.ref == 'refs/heads/main'
