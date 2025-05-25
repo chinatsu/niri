@@ -16,6 +16,9 @@ For previous versions, you need to pass command-line flags to the target applica
 
 If the application has a [desktop entry](https://specifications.freedesktop.org/menu-spec/latest/menu-add-example.html), you can put the command-line arguments into the `Exec` section.
 
+> [!TIP]
+> If you want to edit desktop entries, you may want to copy the entry from `/usr/share/applications/` to `~/.local/share/applications/` and do your edits in the user-local file.
+
 ### VSCode
 
 If you're having issues with some VSCode hotkeys, try starting `Xwayland` and setting the `DISPLAY=:0` environment variable for VSCode.
